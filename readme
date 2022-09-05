@@ -1,0 +1,3 @@
+==> Please enter into cloned folder.
+==> Open cmd in current path and type "npm install" .
+==> Now you can test the Lottery contract by typing "npm run test".
